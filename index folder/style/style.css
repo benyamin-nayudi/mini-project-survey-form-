@@ -1,0 +1,33 @@
+body{
+    background-image: url(../image/photo_2021-01-16_12-15-50.jpg) ;
+}
+table{
+    margin-top: 250px;
+    /* background-color: darkgray; */
+}
+input{
+    background-color: rgb(255, 255, 255);
+    
+}
+input:hover{
+    background-color: rgb(170, 170, 170);
+}
+input[type=submit]:hover{
+    color: greenyellow;
+}
+.done{
+    background: local;
+    border: rgb(141, 60, 60) 2px;
+}
+.more{
+    padding-left: 100px;
+}
+.white{
+    color: white;
+}
+.link{
+    text-decoration: none;
+}
+a:hover{
+    color: greenyellow;
+}
